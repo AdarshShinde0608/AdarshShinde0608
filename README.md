@@ -1,5 +1,5 @@
-# 💫 About Me:
-I'm currently pursuing a B.Tech in Computer Science at MIT Academy of Engineering, which is affiliated with Savitribai Phule Pune University (SPPU).<br>I'm passionate about learning web development and cybersecurity.
+# 💫✨ About Me:
+I'm currently pursuing a B.Tech in Computer Science at MIT Academy of Engineering, which is affiliated with Savitribai Phule Pune University (SPPU) 🙇<br>I'm passionate about learning web development and cybersecurity 👾🌐
 
 
 ## 🌐 Socials:
