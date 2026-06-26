@@ -14,7 +14,7 @@ I'm currently pursuing a B.Tech in Computer Science at MIT Academy of Engineerin
 <!-- ![](https://nirzak-streak-stats.vercel.app/?user=AdarshShinde0608&theme=one_dark_pro&hide_border=true)<br/> -->
 <!-- ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AdarshShinde0608&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/> -->
 ![](https://github-readme-stats.vercel.app/api?username=AdarshShinde0608&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=AdarshShinde0608&theme=one_dark_pro&hide_border=false)<br/>
+![](https://streak-stats.demolab.com/?user=AdarshShinde0608&theme=one_dark_pro&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshShinde0608&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=false&layout=compact)<br/>
 
 ### ✍️ Random Dev Quote
